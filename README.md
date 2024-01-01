@@ -88,8 +88,8 @@
 ## Sobre as atividades..
 👉 Existem dois tipos de atividades:
 
-    - Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada:
-    - Atividades Práticas: correspondem aos exercícios compostos por código executáveis. 
+- Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada: Exercícios Teóricos, onde estão os exercícios em forma de relatório, os quais foram solicitados pelo professor.
+- Atividades Práticas: correspondem aos exercícios compostos por código executáveis e estão disponibilizados nas pastas com os respectivos nomes que as identificam e são independentes umas das outras. 
 
  
 
