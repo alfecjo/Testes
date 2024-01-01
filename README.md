@@ -4,7 +4,7 @@
 ## Este material foi desenvolvido em resposta a disciplina 'Teste de Software', a qual faz parte do curso de Pós Graduação em Tecnologia Java, ministrado pela Universidade Tecnológica Federal do Paraná.
 🎉 Os projetos, são exercícios solicitados ao longo do curso que juntos perfazem a nota que compõem a média final.
 
-🥋 Se você está entrando no Java agora, vou deixar um comentário apenas para orientá-lo, caso considere o código deste exercício estranho. Este exercício, foi considerado pelo professor e os demais colegas como HARD. (_😎tirei nota máxima_), contudo, o assunto aqui é TESTE DE SOFTWARE. Isso, por si só, não é nada convencional, pois, grande quantidade de desenvolvedores não estão acostumados com teste. Caso se identifique, considere que TESTE DE SOFTWARE é uma potencialidade do Java explorada por todos que se reservam o direito de escrever código de qualidade.
+🥋 Se você está entrando no Java agora, vou deixar um comentário apenas para orientá-lo, caso considere o código destes exercícios um pouco estranhos. Estes exercícios, compõem a disciplina TESTES e estão dispostos em vários níveis de dificuldade. Desde JUNIOR até HARD. (_😎tirei nota máxima em todos_), contudo, o assunto aqui é TESTE DE SOFTWARE. Isso, por si só, não é nada convencional, pois, grande parte dos desenvolvedores não estão acostumados com teste e os desconsideram. Caso se identifique, considere que TESTE DE SOFTWARE é uma potencialidade do Java explorada por todos que se reservam o direito de escrever código de qualidade. Simplesmente, os TESTES participam de TODO ciclo de vida do projeto.
 
 ## Testar
 
@@ -85,26 +85,12 @@
     - Teste de forma contínua para detectar e corrigir defeitos desde o início.
     - Ao adotar uma abordagem abrangente para testes de software em Java, as equipes podem melhorar a qualidade do software, fornecer uma experiência mais confiável aos usuários e garantir a conformidade com os requisitos especificados.
 
-## Enunciado da atividade
-👉 Desenvolva uma aplicação baseado na situação-problema: uma cidade está realizando uma eleição. Você é o desenvolvedor que projetará uma aplicação capaz de receber os votos de cada urna espalhada na cidade. Muita atenção neste trecho do enunciado. Estamos emulando uma eleição real. Tal como as urnas eletrônicas funcionam. Lembre-se que programas existem para solucionar situações da vida real, utilizando estudos de caso na vida real. 
+## Sobre as atividades..
+👉 Existem dois tipos de atividades:
+    - Atividades Teóricas: correspondem a questionários sobre o assunto.
+    - Atividades Práticas: correspondem aos exercícios compostos por código executáveis. 
 
-Assim, pede-se:
-
-- O servidor RMI deverá estar apto a realizar duas funções:
-    - Contar todos os votos;
-    - Receber votos (contendo os nomes dos candidatos e os números de votos);
-
-- Cada urna (cliente RMI) deverá enviar os nomes e o número de votos de cada candidato para o servidor.  Esses nomes deverão ser entrados no console. Os números de votos também deverão ser entrados pelo console.
-
-- O servidor deverá exibir a apuração de votos atualizada a cada 5 segundos....
-
-  ### Alguns pontos importantes:
-  - Sua aplicação deverá receber candidatos do mundo real (João, Maria, Vitor, etc.)
-  - O usuário (o avaliador) deverá interagir com seu programa. O nome do candidato (ou o número do candidato) deverá ser entrado (lembre-se que na urna eletrônica real votamos por     números, mas aqui pode entrar também o nome). Os votos também.
-  - Não pré-programe inserção automática de candidatos e votos, no código.
-  - O usuário (o avaliador) deverá observar as atualizações no output do servidor que será atualizado a cada 5 segundos.
-  - Não quebre padrões de programação. Exemplo: Se seus programas sempre possuem interface em português, não utilize outro idioma. Não faria o menor sentido corporativo, um programador   passar a exibir na sua interface, o idioma russo ou árabe, depois que apresentou 05 programas em português. Isso mesmo com um programa funcionando e atendendo os requisitos solicitados.  Quebrar padrões desfavorece o programador.
-  - Evite que seu programa seja um robô que faça tudo automaticamente, com parâmetros passados automaticamente, imperceptíveis ao usuário. Lembre-se que este programa interage.
+ 
 
 # Tecnologia utilizada:
 
