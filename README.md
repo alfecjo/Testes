@@ -1,4 +1,4 @@
-# Java Aplicado a Teste de Software..
+# ☕ Java Aplicado a Teste de Software..
 ![teste](teste.jpg)
 
 ## Este material foi desenvolvido em resposta a disciplina 'Teste de Software', a qual faz parte do curso de Pós Graduação em Tecnologia Java, ministrado pela Universidade Tecnológica Federal do Paraná.
