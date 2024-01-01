@@ -8,7 +8,7 @@
 
 ## Testar
 
-😵 Objetivo:
+🎯 Objetivo:
 
     - Identificar Defeitos:
         - Encontrar e corrigir defeitos no software antes que ele seja entregue ao cliente.
