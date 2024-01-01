@@ -108,7 +108,7 @@
 1. Clone o repositório ou baixe o arquivo .zip:
 
 ```bash
-git clone https://github.com/alfecjo/redes.git
+git clone https://github.com/alfecjo/Testes.git
 ```
 ## Uso
 
