@@ -113,8 +113,8 @@ git clone https://github.com/alfecjo/testes.git
 ## Uso
 
 1. Execute em sua IDE de preferência. Contudo, o desenvolvimento foi feito no Eclipse! Você pode começar com: "mvn install", no diretório raiz, que é onde se encontra o arquivo pom.xml. Desta forma, serão baixadas as dependências, caso seja necessário.
-2. A idéia central aqui é entender os enunciados que correspondem aos teste e montá-los, de preferência na IDE Eclipse, ou caso escolha outra IDE, sempre se faz necessário algumas modificações pontuais. Digo isso porquê já fiz testes no Eclipse (minha preferida para testes) e quando fui aplicar no IntelliJ ou/e VSCode tive esses problemas.
-3. Caso tenha o Java instalado, você precisa apenas executar os arquivos .class.
+2. A idéia central aqui é entender os enunciados que correspondem aos testes, individualmente e montá-los, de preferência na IDE Eclipse, ou caso escolha outra IDE, sempre se faz necessário algumas modificações pontuais. Digo isso porquê já fiz testes no Eclipse (minha preferida para testes) e quando fui aplicar no IntelliJ, VSCode, NetBeans, tive esses problemas.
+3. Caso tenha o Java instalado, você precisa apenas lidar com os arquivos .class.
 
 ## Contribuição
 
