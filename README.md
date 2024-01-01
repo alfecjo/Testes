@@ -10,14 +10,14 @@
 
 😵 Objetivo:
 
-Identificar Defeitos:
-
-Encontrar e corrigir defeitos no software antes que ele seja entregue ao cliente.
-Garantir que o software atenda aos requisitos especificados.
-Assegurar Qualidade:
-
-Verificar se o software atende aos padrões de qualidade definidos.
-Garantir que o software seja confiável, eficiente e fácil de manter.
+    - Identificar Defeitos:
+        - Encontrar e corrigir defeitos no software antes que ele seja entregue ao cliente.
+        - Garantir que o software atenda aos requisitos especificados.
+        
+    - Assegurar Qualidade:
+        - Verificar se o software atende aos padrões de qualidade definidos.
+        - Garantir que o software seja confiável, eficiente e fácil de manter.
+        
 Validar Requisitos:
 
 Certificar-se de que o software implementa corretamente os requisitos do cliente.
