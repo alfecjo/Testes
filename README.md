@@ -50,7 +50,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
 
 ### 👉 Atividades práticas:
 
-1. **Projeto**:
+1. **Projeto Identifier**:
    - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
    - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
      - (Exercicio 02) O programa deve determinar se um Identifier é válido ou não. Um identificador válido deve começar com uma letra e conter apenas letras e/ou dígitos. Além disso, deve ter no mínimo um caractere e no máximo seis caracteres de comprimento.
@@ -62,7 +62,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
           - 1soma (inválido);
           - a123456 (inválido).
 
-2. **Projeto**:
+2. **Projeto CalculadoraDeSalarioDeFuncionários**:
    - [Funcionarios](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/Funcionarios.java) - class objeto
    - [CalculadoraDeSalarioDeFuncionários](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/CalculadoraDeSalarioDeFuncionários.java) - class de apóio
    - [App](Exercicio%2003/CalcSalarFunc/src/test/java/serviceTest/CalcSalarFuncServiceTest.java) - class de test
@@ -80,7 +80,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
         - GERENTE com salário-base de 2.500,00. Salário final: 2.000,00
         - TESTADOR com salário de 550.00. Salário final: 467,50
 
-3. **Projeto**:
+3. **Projeto Craps - Jogo de Dados**:
    - [Craps](Exercicio%2004/br.craps/src/main/java/br/craps/craps.java) - class apóio
    - [Dado](Exercicio%2004/br.craps/src/main/java/br/craps/dado.java) - class apóio
    - [Main](Exercicio%2004/br.craps/src/main/java/br/craps/main.java) - class principal
@@ -94,7 +94,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
 ### 🤔 Fluxo:
 ![fluxoCraps](fluxoCraps.jpg)
 
-4. **Projeto**:
+4. **Projeto Teste de Números Aleatórios**:
    - [MyRandomNumber](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/MyRandomNumber.java) - class apóio
    - [IntervaloInvalidoException](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/IntervaloInvalidoException.java) - class apóio
    - [MyRandomNumberTest](Exercicio%2005/gerador.aleatorio/src/test/java/br/gerador/aleatorio/MyRandomNumberTest.java) - class de test
@@ -135,7 +135,7 @@ Número Aleatório no Intervalo:
 Diferentes Números Aleatórios:
         - Implemente um teste para garantir que diferentes invocações do método nextRandomNumber resultem em números aleatórios diferentes.
 
-5. **Projeto**:
+5. **Projeto Teste do Tipo de Triângulo**:
    - [App](Avaliação%20Final/src/main/java/br/triangulo/App.java) - class main
    - [Triangulo](Avaliação%20Final/src/main/java/br/triangulo/Triangulo.java) - class apóio
    - [TrianguloException](Avaliação%20Final/src/main/java/br/triangulo/TrianguloException.java) - class apóio
@@ -161,7 +161,7 @@ Diferentes Números Aleatórios:
 - Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada: Exercícios Teóricos, onde estão os exercícios em forma de relatório, os quais foram solicitados pelo professor.
 
 ### 👉 Vídeo:
-[![Assista ao Vídeo de Apresentação dos Testes](https://img.youtube.com/vi/SEU_CODIGO_DO_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_CODIGO_DO_VIDEO)
+[![Assista ao Vídeo de Apresentação dos Testes](https://img.youtube.com/vi/QQZ0YUp_a6c/maxresdefault.jpg)](https://www.youtube.com/watch?v=QQZ0YUp_a6c)
 
 # Tecnologia utilizada:
 
