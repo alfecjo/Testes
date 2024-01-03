@@ -15,7 +15,7 @@ public class MyRandomNumber {
 	public int nextRandomNumber(int begin, int end) throws IntervaloInvalidoException {
 		if (begin < 0)
 			throw new IntervaloInvalidoException("begin eh menor que zero");
-		// TODO implementar o codigo aqui
+		
 		if (begin >= end || begin < 0 || end < 0)
 			throw new IntervaloInvalidoException("Intervalo inválido!");
 
