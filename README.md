@@ -120,7 +120,7 @@ public IntervaloInvalidoException(String msg) {
     }
 }
 
-Aqui estão as diretrizes detalhadas:
+### 🏋️‍♀️ Aqui estão as diretrizes detalhadas:
 
 Intervalo Inválido:
 
