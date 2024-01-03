@@ -125,15 +125,15 @@ Aqui estão as diretrizes detalhadas:
 Intervalo Inválido:
 
 Implemente testes para garantir que a exceção IntervaloInvalidoException seja lançada corretamente em cenários específicos:
-Quando o início do intervalo é negativo.
-Quando o final do intervalo é negativo.
-Quando o início do intervalo é maior ou igual ao final do intervalo.
+        - Quando o início do intervalo é negativo.
+        - Quando o final do intervalo é negativo.
+        - Quando o início do intervalo é maior ou igual ao final do intervalo.
+
 Número Aleatório no Intervalo:
+        - Implemente um teste para verificar se o número gerado pelo método nextRandomNumber está dentro do intervalo especificado (inclusivo).
 
-Implemente um teste para verificar se o número gerado pelo método nextRandomNumber está dentro do intervalo especificado (inclusivo).
 Diferentes Números Aleatórios:
-
-Implemente um teste para garantir que diferentes invocações do método nextRandomNumber resultem em números aleatórios diferentes.
+        - Implemente um teste para garantir que diferentes invocações do método nextRandomNumber resultem em números aleatórios diferentes.
 
 5. **Projeto**:
    - [App](Avaliação%20Final/src/main/java/br/triangulo/App.java) - class main
