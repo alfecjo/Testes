@@ -66,7 +66,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
    - [Funcionarios](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/Funcionarios.java) - class objeto
    - [CalculadoraDeSalarioDeFuncionários](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/CalculadoraDeSalarioDeFuncionários.java) - class de apóio
    - [App](Exercicio%2003/CalcSalarFunc/src/test/java/serviceTest/CalcSalarFuncServiceTest.java) - class de test
-     - Seguindo um ciclo Test Driven Development (TDD), desenvolva as classes necessárias (usando a linguagem Java e o framework JUnit) para resolver o problema descrito abaixo:
+     - (Exercicio 03) Seguindo um ciclo Test Driven Development (TDD), desenvolva as classes necessárias (usando a linguagem Java e o framework JUnit) para resolver o problema descrito abaixo:
         “O participante deve implementar uma calculadora de salário de funcionários. Um funcionário contém nome, e-mail, salário-base e cargo. De acordo com seu cargo, a regra para cálculo do salário líquido é diferente:
 
         Caso o cargo seja DESENVOLVEDOR, o funcionário terá desconto de 20% caso o salário seja maior ou igual que 3.000,00, ou apenas 10% caso o salário seja menor que isso.
@@ -80,26 +80,22 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
         - GERENTE com salário-base de 2.500,00. Salário final: 2.000,00
         - TESTADOR com salário de 550.00. Salário final: 467,50
 
-3. **Projeto 3**:
-   - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
-   - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
-     - O programa deve determinar se um Identifier é válido ou não. Um identificador válido deve começar com uma letra e conter apenas letras e/ou dígitos. Além disso, deve ter no mínimo um caractere e no máximo seis caracteres de comprimento.
-     - Exemplo:
-        abc12 (válido);
-        cont*1 (inválido);
-        1soma (inválido);
-        a123456 (inválido).
+2. **Projeto 3**:
+   - [Funcionarios](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/Funcionarios.java) - class objeto
+   - [CalculadoraDeSalarioDeFuncionários](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/CalculadoraDeSalarioDeFuncionários.java) - class de apóio
+   - [App](Exercicio%2003/CalcSalarFunc/src/test/java/serviceTest/CalcSalarFuncServiceTest.java) - class de test
+     - (Exercicio 04) Implementar em Java e testar com o JUnit com o uso de Mocks/Mockito o Jogo Craps:
+        Craps(jogo de dados):
+        – O jogador lança dois dados de seis faces. Depois que os dados param de rolar, calcula-se a soma dos pontos obtidos nos dois dados. Se a soma for 7 ou 11 no primeiro lance, o jogador ganha. Se a soma for 2, 3 ou 12 no primeiro lance, o jogador perde (a mesa ganha).
+        – Se a soma for 4, 5, 6, 8, 9 ou 10 no primeiro lance, essa soma torna-se o ponto do jogador. Para ganhar, o jogador deve continuar a rolar os dados até atingir seu ponto (isto é, a soma deve ser igual ao ponto do jogador).
 
-4. **Projeto 4**:
-   - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
-   - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
-     - O programa deve determinar se um Identifier é válido ou não. Um identificador válido deve começar com uma letra e conter apenas letras e/ou dígitos. Além disso, deve ter no mínimo um caractere e no máximo seis caracteres de comprimento.
-     - Exemplo:
-        abc12 (válido);
-        cont*1 (inválido);
-        1soma (inválido);
-        a123456 (inválido).
+- O jogador perde se obtiver um 7 antes de atingir seu ponto.::
 
+        - Caso o cargo seja DESENVOLVEDOR, o funcionário terá desconto de 20% caso o salário seja maior ou igual que 3.000,00, ou apenas 10% caso o salário seja menor que isso.
+        - Caso o cargo seja DBA, o funcionário terá desconto de 25% caso o salário seja maior ou igual que 2.000,00, ou apenas 15% caso o salário seja menor que isso.
+        - Caso o cargo seja TESTADOR, o funcionário terá desconto de 25% caso o salário seja maior ou igual que 2.000,00, ou apenas 15% caso o salário seja menor que isso.
+        - Caso o cargo seja GERENTE, o funcionário terá desconto de 30% caso o salário seja maior ou igual que 5.000,00, ou apenas 20% caso o salário seja menor que isso.
+  
 ### 👉 Atividades teóricas:
 
 - Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada: Exercícios Teóricos, onde estão os exercícios em forma de relatório, os quais foram solicitados pelo professor.
