@@ -51,10 +51,13 @@
         
     - Ao adotar uma abordagem abrangente para testes de software em Java, as equipes podem melhorar a qualidade do software, fornecer uma experiência mais confiável aos usuários e garantir a conformidade com os requisitos especificados.
 
-## Sobre as atividades..
-👉 Existem dois tipos de atividades:
+## 🎯 Sobre as atividades..
 
-🎯
+### 👉 Atividades práticas:
+
+1. **Projeto 1**: [CONTADOR DE CLIQUES](desafio-01/index-01.html)
+   - Crie uma página que apresente um botão que toda vez que é clicado atualizará na mesma tela a quantidade de cliques. Conforme a faixa de valores a estilização do contador deve mudar: até 100 usa-se cor verde, de 101 a 150 amarelo e de 151 acima vermelho.
+
 
 - Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada: Exercícios Teóricos, onde estão os exercícios em forma de relatório, os quais foram solicitados pelo professor.
 - Atividades Práticas: correspondem aos exercícios compostos por código executáveis e estão disponibilizados nas pastas com os respectivos nomes que as identificam e são independentes umas das outras. 
