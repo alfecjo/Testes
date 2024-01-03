@@ -98,7 +98,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
    - [MyRandomNumber](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/MyRandomNumber.java) - class apóio
    - [IntervaloInvalidoException](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/IntervaloInvalidoException.java) - class apóio
    - [MyRandomNumberTest](Exercicio%2005/gerador.aleatorio/src/test/java/br/gerador/aleatorio/MyRandomNumberTest.java) - class de test
-     - (Exercicio 05) Seguindo um ciclo Test Driven Development (TDD), desenvolva as classes abaixo usando JUnit para automatizar os testes do programa que gera um número aleatório em um intervalo:
+     - (Exercicio 05) Seguindo um ciclo Test Driven Development (TDD), desenvolva as classes abaixo usando JUnit para automatizar os testes do programa que gera um número aleatório em um intervalo. Gerador de Números Aleatórios: Você está encarregado de implementar testes para um gerador de números aleatórios em Java. O gerador é representado pela classe MyRandomNumber, que possui o método nextRandomNumber(int begin, int end).
 
 public class MyRandomNumber {
     Random random = new Random();    
@@ -119,6 +119,21 @@ public IntervaloInvalidoException(String msg) {
         super(msg);
     }
 }
+
+Aqui estão as diretrizes detalhadas:
+
+Intervalo Inválido:
+
+Implemente testes para garantir que a exceção IntervaloInvalidoException seja lançada corretamente em cenários específicos:
+Quando o início do intervalo é negativo.
+Quando o final do intervalo é negativo.
+Quando o início do intervalo é maior ou igual ao final do intervalo.
+Número Aleatório no Intervalo:
+
+Implemente um teste para verificar se o número gerado pelo método nextRandomNumber está dentro do intervalo especificado (inclusivo).
+Diferentes Números Aleatórios:
+
+Implemente um teste para garantir que diferentes invocações do método nextRandomNumber resultem em números aleatórios diferentes.
 
 5. **Projeto**:
    - [App](Avaliação%20Final/src/main/java/br/triangulo/App.java) - class main
