@@ -23,33 +23,36 @@
 
 ## 🎯 O que testar?
 
-    - Testar unidades individuais de código, como métodos ou classes, para garantir que funcionem conforme esperado.
-        - Frameworks populares: JUnit, TestNG.
-        - Verificar a interação entre diferentes módulos ou componentes do sistema.
-        - Garantir que as partes do sistema funcionem bem juntas.
-        - Identificar problemas de comunicação entre componentes.
-        - Avaliar se o software atende aos requisitos funcionais.
-    - Testar casos de uso do usuário para garantir que o sistema realize as operações esperadas.
-        - Avaliar características não funcionais, como desempenho, segurança, usabilidade.
-        - Garantir que o software atenda aos critérios de desempenho e segurança.
-        - Executar testes após alterações no código para garantir que as alterações não quebraram funcionalidades existentes.
-        - Automatizar sempre que possível para economizar tempo.
-        - Realizados pelo cliente para validar se o software atende às necessidades de negócios.
-        - Confirmar se o software está pronto para produção.
-        - Avaliar o desempenho do software sob diferentes condições de carga.
-        - Identificar gargalos e otimizar o desempenho.
-        - Identificar vulnerabilidades e garantir que o software seja resistente a ataques.
-    - Testar a integridade e confidencialidade dos dados.
-        - Automatizar testes repetitivos para economizar tempo e aumentar a cobertura.
-        - Use ferramentas de automação como Selenium, JMeter, etc.
-        - Criar e manter documentação abrangente de casos de teste, resultados e procedimentos.
-        - Facilitar a replicação e manutenção dos testes.
-        - Avaliar a facilidade de uso e a experiência do usuário.
-        - Garantir que o software seja intuitivo e amigável.
-        - Integre testes em todo o ciclo de vida do desenvolvimento.
-    - Teste de forma contínua para detectar e corrigir defeitos desde o início.
-        
-    - Ao adotar uma abordagem abrangente para testes de software em Java, as equipes podem melhorar a qualidade do software, fornecer uma experiência mais confiável aos usuários e garantir a conformidade com os requisitos especificados.
+    Ao conduzir testes de software, é crucial abordar diversos aspectos para garantir a qualidade e confiabilidade da aplicação. Aqui estão alguns elementos-chave que você deve considerar ao definir sua estratégia de teste:
+
+Funcionalidades Principais:
+
+Teste todas as funcionalidades principais da aplicação para garantir que elas operem conforme o esperado. Isso inclui casos de uso críticos para o usuário final.
+Caminhos de Usuário:
+
+Avalie os diversos caminhos que os usuários podem seguir dentro da aplicação. Certifique-se de testar cenários de navegação, interação e transições entre páginas ou telas.
+Entradas do Usuário:
+
+Valide como a aplicação lida com diferentes tipos de entrada do usuário. Teste campos de formulários, caixas de seleção, botões e outras interações para garantir uma resposta adequada.
+Edge Cases e Limites:
+
+Explore situações de limite e casos extremos para identificar possíveis vulnerabilidades ou comportamentos inesperados. Isso inclui testar valores mínimos, máximos e situações de erro.
+Compatibilidade de Navegadores e Dispositivos:
+
+Verifique se a aplicação é compatível com uma variedade de navegadores e dispositivos. Teste em diferentes versões de navegadores e em dispositivos móveis para garantir uma experiência consistente.
+Desempenho e Escalabilidade:
+
+Avalie o desempenho da aplicação, especialmente em condições de carga elevada. Teste a escalabilidade para garantir que a aplicação possa lidar com um número crescente de usuários.
+Segurança:
+
+Conduza testes de segurança para identificar possíveis vulnerabilidades, como falhas de autenticação, injeções de código e outros ataques potenciais.
+Integrações e APIs:
+
+Teste integrações com sistemas externos e APIs para garantir uma comunicação suave e a troca correta de dados.
+Atualizações e Migrações:
+
+Se a aplicação estiver passando por atualizações ou migrações, certifique-se de testar os processos de forma abrangente para evitar problemas durante essas transições.
+Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do software, mas também contribui para uma experiência do usuário consistente e confiável.
 
 ## 🎯 Sobre as atividades..
 
