@@ -50,7 +50,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
 
 ### 👉 Atividades práticas:
 
-1. **Projeto 1**:
+1. **Projeto**:
    - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
    - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
      - (Exercicio 02) O programa deve determinar se um Identifier é válido ou não. Um identificador válido deve começar com uma letra e conter apenas letras e/ou dígitos. Além disso, deve ter no mínimo um caractere e no máximo seis caracteres de comprimento.
@@ -62,7 +62,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
           - 1soma (inválido);
           - a123456 (inválido).
 
-2. **Projeto 2**:
+2. **Projeto**:
    - [Funcionarios](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/Funcionarios.java) - class objeto
    - [CalculadoraDeSalarioDeFuncionários](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/CalculadoraDeSalarioDeFuncionários.java) - class de apóio
    - [App](Exercicio%2003/CalcSalarFunc/src/test/java/serviceTest/CalcSalarFuncServiceTest.java) - class de test
@@ -80,7 +80,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
         - GERENTE com salário-base de 2.500,00. Salário final: 2.000,00
         - TESTADOR com salário de 550.00. Salário final: 467,50
 
-3. **Projeto 3**:
+3. **Projeto**:
    - [Craps](Exercicio%2004/br.craps/src/main/java/br/craps/craps.java) - class apóio
    - [Dado](Exercicio%2004/br.craps/src/main/java/br/craps/dado.java) - class apóio
    - [Main](Exercicio%2004/br.craps/src/main/java/br/craps/main.java) - class principal
@@ -94,7 +94,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
 ### 🤔 Fluxo:
 ![fluxoCraps](fluxoCraps.jpg)
 
-4. **Projeto 4**:
+4. **Projeto**:
    - [MyRandomNumber](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/MyRandomNumber.java) - class apóio
    - [IntervaloInvalidoException](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/IntervaloInvalidoException.java) - class apóio
    - [MyRandomNumberTest](Exercicio%2005/gerador.aleatorio/src/test/java/br/gerador/aleatorio/MyRandomNumberTest.java) - class de test
@@ -121,9 +121,11 @@ public IntervaloInvalidoException(String msg) {
     }
 }
 
-5. **Projeto 5**:
-   - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
-   - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
+5. **Projeto**:
+   - [App](Avaliação%20Final/src/main/java/br/triangulo/App.java) - class main
+   - [Triangulo](Avaliação%20Final/src/main/java/br/triangulo/Triangulo.java) - class apóio
+   - [TrianguloException](Avaliação%20Final/src/main/java/br/triangulo/TrianguloException.java) - class apóio
+   - [TrianguloTest](Avaliação%20Final/src/main/java/br/triangulo/java/br/TesteTriangulo/TrianguloTest.java) - class de test
      - (Avaliação Final) Verificação de Triângulos:
 
         Você foi designado a desenvolver um programa em Java que permite a verificação do tipo de triângulo com base nos valores dos seus lados. O programa deve solicitar ao usuário que insira os valores dos lados do triângulo e, em seguida, determinar e exibir se o triângulo é equilátero, isósceles ou escaleno.
