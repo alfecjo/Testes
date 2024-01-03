@@ -58,8 +58,8 @@
 1. **Projeto 1**:
    - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
    - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
-           - O programa deve determinar se um Identifier é válido ou não. Um identificador válido deve começar com uma letra e conter apenas letras e/ou dígitos. Além disso, deve ter no mínimo um caractere e no máximo seis caracteres de comprimento.
-           - Exemplo:
+     - O programa deve determinar se um Identifier é válido ou não. Um identificador válido deve começar com uma letra e conter apenas letras e/ou dígitos. Além disso, deve ter no mínimo um caractere e no máximo seis caracteres de comprimento.
+     - Exemplo:
         abc12 (válido);
         cont*1 (inválido);
         1soma (inválido);
