@@ -89,9 +89,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
      - (Exercicio 04) Implementar em Java e testar com o JUnit com o uso de Mocks/Mockito o Jogo Craps:
         Craps(jogo de dados):
         – O jogador lança dois dados de seis faces. Depois que os dados param de rolar, calcula-se a soma dos pontos obtidos nos dois dados. Se a soma for 7 ou 11 no primeiro lance, o jogador ganha. Se a soma for 2, 3 ou 12 no primeiro lance, o jogador perde (a mesa ganha).
-        – Se a soma for 4, 5, 6, 8, 9 ou 10 no primeiro lance, essa soma torna-se o ponto do jogador. Para ganhar, o jogador deve continuar a rolar os dados até atingir seu ponto (isto é, a soma deve ser igual ao ponto do jogador).
-       
-        - O jogador perde se obtiver um 7 antes de atingir seu ponto.
+        – Se a soma for 4, 5, 6, 8, 9 ou 10 no primeiro lance, essa soma torna-se o ponto do jogador. Para ganhar, o jogador deve continuar a rolar os dados até atingir seu ponto (isto é, a soma deve ser igual ao ponto do jogador). O jogador perde se obtiver um 7 antes de atingir seu ponto.
   
 ### 🤔 Fluxo:
 ![fluxoCraps](fluxoCraps.jpg)
