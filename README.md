@@ -94,6 +94,32 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
 ### 🤔 Fluxo:
 ![fluxoCraps](fluxoCraps.jpg)
 
+1. **Projeto 4**:
+   - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
+   - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
+     - (Exercicio 05) Seguindo um ciclo Test Driven Development (TDD), desenvolva as classes abaixo usando JUnit para automatizar os testes do programa que gera um número aleatório em um intervalo:
+
+public class MyRandomNumber {
+    Random random = new Random();    
+       
+    /**
+     *
+     * @param begin inicio do intervalo
+     * @param end fim do intervalo
+     * @return retornar um numero aleatorio entre [begin, end]
+     * o numero aleatorio retornado nao pode ser igual ao anterior
+     * @throws IntervaloInvalidoException
+     * essa excecao eh lancada quando begin >= end ou (begin<0 || end<0)
+     *
+     */
+
+public class IntervaloInvalidoException extends Exception {
+   
+public IntervaloInvalidoException(String msg) {
+        super(msg);
+    }
+}
+
 ### 👉 Atividades teóricas:
 
 
