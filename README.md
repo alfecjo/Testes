@@ -80,7 +80,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
         - GERENTE com salário-base de 2.500,00. Salário final: 2.000,00
         - TESTADOR com salário de 550.00. Salário final: 467,50
 
-2. **Projeto 3**:
+3. **Projeto 3**:
    - [Craps](Exercicio%2004/br.craps/src/main/java/br/craps/craps.java) - class apóio
    - [Dado](Exercicio%2004/br.craps/src/main/java/br/craps/dado.java) - class apóio
    - [Main](Exercicio%2004/br.craps/src/main/java/br/craps/main.java) - class principal
@@ -94,7 +94,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
 ### 🤔 Fluxo:
 ![fluxoCraps](fluxoCraps.jpg)
 
-1. **Projeto 4**:
+4. **Projeto 4**:
    - [MyRandomNumber](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/MyRandomNumber.java) - class apóio
    - [IntervaloInvalidoException](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/IntervaloInvalidoException.java) - class apóio
    - [MyRandomNumberTest](Exercicio%2005/gerador.aleatorio/src/test/java/br/gerador/aleatorio/MyRandomNumberTest.java) - class de test
@@ -121,7 +121,7 @@ public IntervaloInvalidoException(String msg) {
     }
 }
 
-1. **Projeto 5**:
+5. **Projeto 5**:
    - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
    - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
      - (Avaliação Final) Verificação de Triângulos:
