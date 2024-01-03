@@ -161,7 +161,7 @@ Diferentes Números Aleatórios:
 - Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada: Exercícios Teóricos, onde estão os exercícios em forma de relatório, os quais foram solicitados pelo professor.
 
 ### 👉 Vídeo:
-Apresentação dos Testes: <...>
+[![Assista ao Vídeo de Apresentação dos Testes](https://img.youtube.com/vi/SEU_CODIGO_DO_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_CODIGO_DO_VIDEO)
 
 # Tecnologia utilizada:
 
