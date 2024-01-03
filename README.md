@@ -81,9 +81,11 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
         - TESTADOR com salário de 550.00. Salário final: 467,50
 
 2. **Projeto 3**:
-   - [Funcionarios](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/Funcionarios.java) - class objeto
-   - [CalculadoraDeSalarioDeFuncionários](Exercicio%2003/CalcSalarFunc/src/main/java/br/calcSalarFunc/CalculadoraDeSalarioDeFuncionários.java) - class de apóio
-   - [App](Exercicio%2003/CalcSalarFunc/src/test/java/serviceTest/CalcSalarFuncServiceTest.java) - class de test
+   - [Craps](Exercicio%2004/br.craps/src/main/java/br/craps/craps.java) - class apóio
+   - [Dado](Exercicio%2004/br.craps/src/main/java/br/craps/dado.java) - class apóio
+   - [Main](Exercicio%2004/br.craps/src/main/java/br/craps/main.java) - class principal
+   - [Test](Exercicio%2004/br.craps/src/test/java/br/craps/CrapsTest.java) - class de test
+   
      - (Exercicio 04) Implementar em Java e testar com o JUnit com o uso de Mocks/Mockito o Jogo Craps:
         Craps(jogo de dados):
         – O jogador lança dois dados de seis faces. Depois que os dados param de rolar, calcula-se a soma dos pontos obtidos nos dois dados. Se a soma for 7 ou 11 no primeiro lance, o jogador ganha. Se a soma for 2, 3 ou 12 no primeiro lance, o jogador perde (a mesa ganha).
