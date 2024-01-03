@@ -55,8 +55,14 @@
 
 ### 👉 Atividades práticas:
 
-1. **Projeto 1**: [CONTADOR DE CLIQUES](desafio-01/index-01.html)
-   - Crie uma página que apresente um botão que toda vez que é clicado atualizará na mesma tela a quantidade de cliques. Conforme a faixa de valores a estilização do contador deve mudar: até 100 usa-se cor verde, de 101 a 150 amarelo e de 151 acima vermelho.
+1. **Projeto 1**: [Identifier-Main](Exercicio 02/identifier/src/main/java/br/identifierApp/App.java) - [Identifier-Test](Exercicio 02/identifier/src/test/java/br/identifierTest/AppTest.java)
+   - O programa deve determinar se um Identifier é válido ou não. Um identificador válido deve começar com uma letra e conter apenas letras e/ou dígitos. Além disso, deve ter no mínimo um caractere e no máximo seis caracteres de comprimento.
+     Exemplo:
+abc12 (válido);
+cont*1 (inválido);
+1soma (inválido);
+a123456 (inválido).
+
 
 
 - Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada: Exercícios Teóricos, onde estão os exercícios em forma de relatório, os quais foram solicitados pelo professor.
