@@ -97,7 +97,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
 1. **Projeto 4**:
    - [MyRandomNumber](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/MyRandomNumber.java) - class apóio
    - [IntervaloInvalidoException](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/IntervaloInvalidoException.java) - class apóio
-   - [MyRandomNumberTest](Exercicio 05/gerador.aleatorio/src/test/java/br/gerador/aleatorio/MyRandomNumberTest.java) - class de test
+   - [MyRandomNumberTest](Exercicio%2005/gerador.aleatorio/src/test/java/br/gerador/aleatorio/MyRandomNumberTest.java) - class de test
      - (Exercicio 05) Seguindo um ciclo Test Driven Development (TDD), desenvolva as classes abaixo usando JUnit para automatizar os testes do programa que gera um número aleatório em um intervalo:
 
 public class MyRandomNumber {
@@ -121,13 +121,28 @@ public IntervaloInvalidoException(String msg) {
     }
 }
 
+1. **Projeto 5**:
+   - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
+   - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
+     - (Avaliação Final) Verificação de Triângulos:
+
+        Você foi designado a desenvolver um programa em Java que permite a verificação do tipo de triângulo com base nos valores dos seus lados. O programa deve solicitar ao usuário que insira os valores dos lados do triângulo e, em seguida, determinar e exibir se o triângulo é equilátero, isósceles ou escaleno.
+
+        Aqui estão as diretrizes detalhadas:
+
+        O programa deve continuar a solicitar a entrada do usuário até que o valor do primeiro lado seja digitado como 99, indicando o encerramento do programa.
+
+        Para cada conjunto de valores dos lados fornecidos pelo usuário, o programa deve criar uma instância da classe Triangulo e chamar o método verificarTipoTriangulo para determinar o tipo do triângulo.
+
+        O método verificarTipoTriangulo deve receber os três lados do triângulo como parâmetros e retornar uma string indicando se o triângulo é equilátero, isósceles ou escaleno.
+
+        O programa deve exibir o resultado da verificação para cada conjunto de lados inseridos pelo usuário.
+
+        O encerramento do programa deve ser realizado quando o usuário digitar 99 como valor do primeiro lado.
+
 ### 👉 Atividades teóricas:
 
-
 - Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada: Exercícios Teóricos, onde estão os exercícios em forma de relatório, os quais foram solicitados pelo professor.
-
-
- 
 
 # Tecnologia utilizada:
 
