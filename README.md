@@ -23,35 +23,27 @@
 
 ## 🎯 O que testar?
 
-    Ao conduzir testes de software, é crucial abordar diversos aspectos para garantir a qualidade e confiabilidade da aplicação. Aqui estão alguns elementos-chave que você deve considerar ao definir sua estratégia de teste:
+- Ao conduzir testes de software, é crucial abordar diversos aspectos para garantir a qualidade e confiabilidade da aplicação. Aqui estão alguns elementos-chave que você deve considerar ao definir sua estratégia de teste:
 
-Funcionalidades Principais:
+1. Funcionalidades Principais:
+   Teste todas as funcionalidades principais da aplicação para garantir que elas operem conforme o esperado. Isso inclui casos de uso críticos para o usuário final.
+2. Caminhos de Usuário:
+   Avalie os diversos caminhos que os usuários podem seguir dentro da aplicação. Certifique-se de testar cenários de navegação, interação e transições entre páginas ou telas.
+3. Entradas do Usuário:
+   Valide como a aplicação lida com diferentes tipos de entrada do usuário. Teste campos de formulários, caixas de seleção, botões e outras interações para garantir uma resposta adequada.
+4. Edge Cases e Limites:
+   Explore situações de limite e casos extremos para identificar possíveis vulnerabilidades ou comportamentos inesperados. Isso inclui testar valores mínimos, máximos e situações de erro.
+5. Compatibilidade de Navegadores e Dispositivos:
+   Verifique se a aplicação é compatível com uma variedade de navegadores e dispositivos. Teste em diferentes versões de navegadores e em dispositivos móveis para garantir uma experiência consistente.
+6. Desempenho e Escalabilidade:
+   Avalie o desempenho da aplicação, especialmente em condições de carga elevada. Teste a escalabilidade para garantir que a aplicação possa lidar com um número crescente de usuários.
+7. Segurança:
+   Conduza testes de segurança para identificar possíveis vulnerabilidades, como falhas de autenticação, injeções de código e outros ataques potenciais.
+8. Integrações e APIs:
+   Teste integrações com sistemas externos e APIs para garantir uma comunicação suave e a troca correta de dados.
+9. Atualizações e Migrações:
 
-Teste todas as funcionalidades principais da aplicação para garantir que elas operem conforme o esperado. Isso inclui casos de uso críticos para o usuário final.
-Caminhos de Usuário:
-
-Avalie os diversos caminhos que os usuários podem seguir dentro da aplicação. Certifique-se de testar cenários de navegação, interação e transições entre páginas ou telas.
-Entradas do Usuário:
-
-Valide como a aplicação lida com diferentes tipos de entrada do usuário. Teste campos de formulários, caixas de seleção, botões e outras interações para garantir uma resposta adequada.
-Edge Cases e Limites:
-
-Explore situações de limite e casos extremos para identificar possíveis vulnerabilidades ou comportamentos inesperados. Isso inclui testar valores mínimos, máximos e situações de erro.
-Compatibilidade de Navegadores e Dispositivos:
-
-Verifique se a aplicação é compatível com uma variedade de navegadores e dispositivos. Teste em diferentes versões de navegadores e em dispositivos móveis para garantir uma experiência consistente.
-Desempenho e Escalabilidade:
-
-Avalie o desempenho da aplicação, especialmente em condições de carga elevada. Teste a escalabilidade para garantir que a aplicação possa lidar com um número crescente de usuários.
-Segurança:
-
-Conduza testes de segurança para identificar possíveis vulnerabilidades, como falhas de autenticação, injeções de código e outros ataques potenciais.
-Integrações e APIs:
-
-Teste integrações com sistemas externos e APIs para garantir uma comunicação suave e a troca correta de dados.
-Atualizações e Migrações:
-
-Se a aplicação estiver passando por atualizações ou migrações, certifique-se de testar os processos de forma abrangente para evitar problemas durante essas transições.
+   Se a aplicação estiver passando por atualizações ou migrações, certifique-se de testar os processos de forma abrangente para evitar problemas durante essas transições.
 Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do software, mas também contribui para uma experiência do usuário consistente e confiável.
 
 ## 🎯 Sobre as atividades..
