@@ -88,15 +88,13 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
         Craps(jogo de dados):
         – O jogador lança dois dados de seis faces. Depois que os dados param de rolar, calcula-se a soma dos pontos obtidos nos dois dados. Se a soma for 7 ou 11 no primeiro lance, o jogador ganha. Se a soma for 2, 3 ou 12 no primeiro lance, o jogador perde (a mesa ganha).
         – Se a soma for 4, 5, 6, 8, 9 ou 10 no primeiro lance, essa soma torna-se o ponto do jogador. Para ganhar, o jogador deve continuar a rolar os dados até atingir seu ponto (isto é, a soma deve ser igual ao ponto do jogador).
-
-- O jogador perde se obtiver um 7 antes de atingir seu ponto.::
-
-        - Caso o cargo seja DESENVOLVEDOR, o funcionário terá desconto de 20% caso o salário seja maior ou igual que 3.000,00, ou apenas 10% caso o salário seja menor que isso.
-        - Caso o cargo seja DBA, o funcionário terá desconto de 25% caso o salário seja maior ou igual que 2.000,00, ou apenas 15% caso o salário seja menor que isso.
-        - Caso o cargo seja TESTADOR, o funcionário terá desconto de 25% caso o salário seja maior ou igual que 2.000,00, ou apenas 15% caso o salário seja menor que isso.
-        - Caso o cargo seja GERENTE, o funcionário terá desconto de 30% caso o salário seja maior ou igual que 5.000,00, ou apenas 20% caso o salário seja menor que isso.
+        - O jogador perde se obtiver um 7 antes de atingir seu ponto.
   
+### 🤔 Fluxo:
+![fluxoCraps](fluxoCraps.jpg)
+
 ### 👉 Atividades teóricas:
+
 
 - Atividades Teóricas: correspondem a questionários sobre o assunto. Estão em arquivos do tipo .pdf e só podem ser visualizados após serem baixados. Existe uma pasta chamada: Exercícios Teóricos, onde estão os exercícios em forma de relatório, os quais foram solicitados pelo professor.
 
