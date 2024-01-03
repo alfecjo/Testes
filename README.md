@@ -56,6 +56,7 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
      - (Exercicio 02) O programa deve determinar se um Identifier é válido ou não. Um identificador válido deve começar com uma letra e conter apenas letras e/ou dígitos. Além disso, deve ter no mínimo um caractere e no máximo seis caracteres de comprimento.
 
 - Exemplos:
+
           - abc12 (válido);
           - cont*1 (inválido);
           - 1soma (inválido);
