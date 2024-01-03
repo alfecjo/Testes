@@ -95,8 +95,9 @@ Lembre-se, um conjunto abrangente de testes não apenas assegura a qualidade do 
 ![fluxoCraps](fluxoCraps.jpg)
 
 1. **Projeto 4**:
-   - [App](Exercicio%2002/identifier/src/main/java/br/identifierApp/App.java) - class main
-   - [App](Exercicio%2002/identifier/src/test/java/br/identifierTest/AppTest.java) - class de test
+   - [MyRandomNumber](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/MyRandomNumber.java) - class apóio
+   - [IntervaloInvalidoException](Exercicio%2005/gerador.aleatorio/src/main/java/br/gerador/aleatorio/IntervaloInvalidoException.java) - class apóio
+   - [MyRandomNumberTest](Exercicio 05/gerador.aleatorio/src/test/java/br/gerador/aleatorio/MyRandomNumberTest.java) - class de test
      - (Exercicio 05) Seguindo um ciclo Test Driven Development (TDD), desenvolva as classes abaixo usando JUnit para automatizar os testes do programa que gera um número aleatório em um intervalo:
 
 public class MyRandomNumber {
